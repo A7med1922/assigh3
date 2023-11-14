@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.myproject .header .nevbar
+{
+    background-color: darkgray;
+    width: 100%;
+    padding: 10px 0px;
+    color: black;
+}
+
+.myproject .header .nevbar ul li
+{
+    display: inline-block;
+    margin: 0px 30px;
+
+}
+
+.staff
+{
+    background-color:#3d3636;
+    text-align: center;
+  
+}
+.staff .staff_1
+{
+    width: 20%;
+    display: inline-block;
+    background-color: #e4cbac;
+    margin: 15px 50px 15px -3px;
+   
+}
+.staff .staff_1 img
+{
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+    margin-top: 25px;
+
+
+}
+.staff .staff_1 h3{
+    color: #9f941c;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.sec h1
+{
+    background-image:url(../imgs/OIP\ \(5\).jpeg) ;
+    color: #9f941c;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding: 10px 0px;
+}
+.sec .iframe
+{
+    margin-top: -25px;
+}
+.footer
+{
+    background-color: black;
+    color: goldenrod;
+    text-align: center;
+    width: 100%;
+     margin-top: -3px;
+     padding: 35px;
+    font-family: 'Parisienne', cursive;
+    
+}
