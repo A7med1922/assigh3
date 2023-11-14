@@ -2,7 +2,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+                 /*style of navbar in header  */
 .myproject .header .nevbar
 {
     background-color: darkgray;
@@ -10,14 +10,14 @@
     padding: 10px 0px;
     color: black;
 }
-
+                    /* edit list to be navbar */
 .myproject .header .nevbar ul li
 {
     display: inline-block;
     margin: 0px 30px;
 
 }
-
+     /*main div staff that contain all staffs  */
 .staff
 {
     background-color:#3d3636;
@@ -29,7 +29,8 @@
     width: 20%;
     display: inline-block;
     background-color: #e4cbac;
-    margin: 15px 50px 15px -3px;
+          /*top   left  bottom right */
+    margin: 15px  50px  15px  -3px;
    
 }
 .staff .staff_1 img
@@ -48,12 +49,14 @@
 
 .sec h1
 {
+                          /*background img in h1   */
     background-image:url(OIP\ \(5\).jpeg) ;
     color: #9f941c;
     width: 100%;
     margin-top: 15px;
     text-align: center;
-    font-family: 'Oswald', sans-serif;
+    /* using font size by google fonts  */
+    font-family: 'Oswald', sans-serif; 
     font-size: 30px;
     padding: 10px 0px;
 }
@@ -61,6 +64,7 @@
 {
     margin-top: -25px;
 }
+        /* footer styleing  */
 .footer
 {
     background-color: black;
@@ -69,6 +73,8 @@
     width: 100%;
      margin-top: -3px;
      padding: 35px;
+
+     
     font-family: 'Parisienne', cursive;
     
 }
